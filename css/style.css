@@ -1,0 +1,20 @@
+
+
+/* 
+inline css
+internal
+external */
+body
+{
+    background-color: rgb(9, 255, 0);
+}
+
+#num
+{
+    color: aquamarine;
+}
+
+.btn
+{
+    width: 5%;
+}
